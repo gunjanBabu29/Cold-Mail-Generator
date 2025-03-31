@@ -39,14 +39,14 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Gunjan Kumar, a business development executive at SGVU. SGVU is an AI & Software Consulting company dedicated to facilitating
+            You are Anshu Kumar, a business development executive at SGVU. SGVU is an AI & Software Consulting company dedicated to facilitating
             the seamless integration of business processes through automated tools. 
             Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
             process optimization, cost reduction, and heightened overall efficiency. 
             Your job is to write a cold email to the client regarding the job mentioned above describing the capability of SGVU 
             in fulfilling their needs.
-            Also add the most relevant ones from the following links to showcase Gunjan Kumar portfolio: {link_list}
-            Remember you are Gunjan Kumar, Data Analyst at SGVU. 
+            Also add the most relevant ones from the following links to showcase Anshu Kumar portfolio: {link_list}
+            Remember you are Anshu Kumar, Data Analyst at SGVU. 
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
 
